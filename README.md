@@ -1,2 +1,2 @@
-# Project-alfa
+# Animal WIKI
 THIS IS MY FIRST PROJECT
